@@ -1,0 +1,15 @@
+path: D:/BINUS File/2025 file/CompBio_AI_V.2.1 detection/skin_disease_dataset
+train: images/train
+val: images/val
+
+names:
+  0: Panu
+  1: Kurap
+  2: Eczema
+  3: Acne
+  4: Bisul
+  5: Kutil
+  6: Chicken_Pox
+  7: Psoriasis
+  8: Herpes
+  9: Monkey_Pox
